@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maorroizmangheiler/Documents/UTEC 2020-1/Estructura de Algoritmos ( Teoría )/cs2100-pointer-func-mrg2000/main.cpp
+iostream
+-
+
